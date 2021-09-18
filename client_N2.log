@@ -1,0 +1,38 @@
+<<< Configuration >>>
+< controller address = 192.168.43.152 >
+< view id = N2 >
+< port = 8081 >
+< display timeout value = 30 >
+< vontroller address = 192.168.43.152 >
+</ 2021/05/25 11:10:25
+	Client : {
+		ping 123
+	}
+	Server : {
+		pong 123
+}
+/>
+</ 2021/05/25 11:10:55
+	Client : {
+		ping 123
+	}
+	Server : {
+		pong 123
+}
+/>
+</ 2021/05/25 11:11:25
+	Client : {
+		ping 123
+	}
+	Server : {
+		
+}
+/>
+</ 2021/05/25 11:11:29
+	Client : {
+		disconnect
+	}
+</ 2021/05/25 11:11:55
+	Client : {
+		disconnect
+	}

@@ -1,0 +1,58 @@
+<<< Configuration >>>
+< controller address = 192.168.43.152 >
+< view id = N6 >
+< port = 8081 >
+< display timeout value = 30 >
+< vontroller address = 192.168.43.152 >
+</ 2021/05/25 10:00:34
+	Client : {
+		ping 123
+	}
+	Server : {
+		pong 123
+}
+/>
+</ 2021/05/25 10:00:43
+	Client : {
+		status
+	}
+	Server : {
+		OK : Connecté au contôleur, 0 poissons trouvés
+}
+/>
+</ 2021/05/25 10:01:04
+	Client : {
+		ping 123
+	}
+	Server : {
+		pong 123
+}
+/>
+</ 2021/05/25 10:01:34
+	Client : {
+		ping 123
+	}
+	Server : {
+		pong 123
+}
+/>
+</ 2021/05/25 10:02:04
+	Client : {
+		ping 123
+	}
+	Server : {
+		pong 123
+}
+/>
+</ 2021/05/25 10:02:11
+	Client : {
+		disconnect
+	}
+	Server : {
+		Disconnected from server!
+}
+/>
+</ 2021/05/25 10:02:34
+	Client : {
+		disconnect
+	}
